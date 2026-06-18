@@ -1,5 +1,10 @@
 # 🎨 AI Art vs Human Art Detector
 
+| Links |
+|---------|
+| 🚀 Live Demo: https://ai-art-detector-wafgn6ejm3zkn2unzplqtu.streamlit.app/#ai-art-vs-human-art-detector|
+| 💻 Repository: https://github.com/yourusername/AI-Art-Detector |
+
 
 ## 📌 Project Overview
 
